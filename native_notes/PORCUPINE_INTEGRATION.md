@@ -1,0 +1,1 @@
+See earlier instructions for Porcupine integration. Add native module to Android and iOS to emit PorcupineKeywordDetected events.

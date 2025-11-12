@@ -1,0 +1,1 @@
+See earlier instructions for Mapy.cz SDK integration. Add native module MapySdkModule for in-app navigation and events.
